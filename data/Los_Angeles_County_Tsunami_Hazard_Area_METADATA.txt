@@ -1,0 +1,214 @@
+California Department of Conservation, California Geological Survey, Seismic Hazards Mapping Program, Tsunami Unit
+
+Metadata for Los Angeles County Tsunami Hazard Area GIS data
+
+TABLE OF CONTENTS
+	Identification Information
+	Data Quality Information
+	Spatial Data Organization Information
+	Spatial Reference Information
+	Entity and Attribute Information
+	Distribution Information
+	Metadata Reference Information
+IDENTIFICATION INFORMATION
+	Citation:
+		Citation_Information
+			Publication_Date: 2021
+			Publication_Time: Unknown
+			Title: Tsunami Hazard Area Los Angeles
+			Series_Information:
+				Tsunami Hazard Area, 2020-2022
+			Publication_Information:
+				Publication_Place: Sacramento, CA
+				Publisher: California Department of Conservation, California Geological Survey
+
+		Suggested_Citation:
+			State of California, 2020. Tsunami Hazard Area, Los Angeles County; produced by the California Geological Survey and the California Governor’s Office of Emergency Services; dated 2021
+
+	Description
+		Abstract: Produced collectively by tsunami modelers, geologic hazard mapping scientists, and emergency planning specialists from the California Geological Survey, the California Governor’s Office of Emergency Services, the Tsunami Research Center at the University of Southern California, and AECOM Technical Services. The Tsunami Hazard areas are developed for all populated areas at risk to tsunamis in California and represent a combination of the maximum considered tsunamis for each area. Local agencies, organizations, and other stakeholders assisted the State in the development of the hazard area as they will be used for evacuation planning at the community level.
+
+		Purpose: This Tsunami Hazard Area is prepared to assist cities and counties in identifying their exposure to tsunami hazards. It is intended for local jurisdictional, coastal evacuation planning uses only. This map and these data, and the information presented herein, are not legal documents and do not meet disclosure requirements for real estate transactions nor for any other land-use or regulatory purpose. The hazard map is compiled with best currently available scientific information. The Tsunami Hazard Area represents an area that could be exposed to tsunami hazards during a tsunami event. The Tsunami Hazard Area includes tsunami model results that at a minimum represent inundation exceeding that of a 975-year average return period event. 
+
+Please refer to the following websites for additional information on the construction and/or intended use of the Tsunami Hazard Area:
+California Geological Survey Tsunami Information: https://www.tsunami.ca.gov/
+
+California Governor’s Office of Emergency Services, Earthquake, Tsunami, and Volcano Program: https://www.caloes.ca.gov/cal-oes-divisions/earthquake-tsunami-volcano-programs/tsunami-about
+
+
+	Time_Period_of_Content:
+		Time_Period_Information:
+		Single_Date/Time:
+		Calendar_Date: 
+		Currentness_Reference: 2021
+		Status Progress: Complete
+		Maintenance_and_Update_Frequency: Unknown
+
+	Spatial_Domain
+		Bounding_Coordinates
+		West_Bounding_Coordinate: 
+		East_Bounding_Coordinate: 
+		North_Bounding_Coordinate: 
+		South_Bounding_Coordinate: 
+
+	Keywords
+		Theme
+		Theme_Keyword_Thesaurus: None
+			Theme_Keyword: Tsunami Hazard Area
+			Theme_Keyword: Tsunami Hazard Map
+			Theme_Keyword: Tsunami Hazard Identification and Mitigation
+			Theme_Keyword: Tsunami 
+			Theme_Keyword: Hazard 
+			Theme_Keyword: Evacuation
+
+		Place
+		Place_Keyword_Thesaurus: None
+			Place_Keyword: California
+			Place_Keyword: USA
+			Place_Keyword: Los Angeles
+
+	Access_Constraints: Because digital data are easily altered those who use this file, or these data are advised to obtain the file directly from the California Geological Survey.
+
+	Use_Constraints: LICENSE AGREEMENT: © 2021 California Geological Survey. All rights reserved. No part of these data may be reproduced, transmitted, or distributed in any form or by any means, electronic or mechanical for any purpose, without the express written permission of the California Geological Survey except under the following conditions: 1) for personal use; 2) for publication in a report, in unmodified form, cite on figure or in text as "Reproduced with permission, California Geological Survey, Official GIS data of the Tsunami Hazard Area, (2021);" and (3) for publication in a report in modified form; cite on figure or in text as "Modified from California Geological Survey, Official GIS data of the Tsunami Hazard Area, (2021)."
+
+These maps and data are prepared to assist cities and counties in identifying their tsunami hazard and are intended for local jurisdictional, coastal evacuation planning uses only. These maps and data are not legal documents and do not meet disclosure requirements for real estate transactions nor for any other regulatory purpose. The California Geological Survey, California Governor's Office of Emergency Services, the University of Southern California, and AECOM Technical Services make no representation or warranties regarding the accuracy of these data. Neither the State of California, the University of Southern California, nor AECOM Technical Services shall be liable under any circumstances for any direct, indirect, special, incidental, or consequential damages with respect to any claim by any user or any third party on account of or arising from the use of this map or these data.
+
+	Point_of_Contact:
+		Contact_Information:
+			Contact_Organization: California Geological Survey, Seismic Hazards Program, Tsunami Hazards Unit
+			Contact_Person_Primary:
+			Contact_Person: Senior Engineering Geologist, Seismic Hazards Program, Tsunami Hazards Unit
+			Contact_Position: Project Manager
+		Contact_Address:
+			Address_Type: mailing and physical address
+			Address: 801 K Street, MS 12-31
+			City: Sacramento
+			State: California
+			Postal_Code: 95814-3532
+			Country: USA
+		Contact_Voice_Telephone: (916) 322-1019
+		Contact_Facsimile_Telephone: (916) 445-3334
+		Contact_Electronic_Mail_Address: SHMP@conservation.ca.gov
+
+		Online_Source: https://www.tsunami.ca.gov/
+
+
+DATA QUALITY INFORMATION
+	Attribute_Accuracy:
+		Attribute_Accuracy_Report: The accuracy of the tsunamihazard area shown on these maps and these data is subject to limitations in the accuracy and completeness of available terrain and tsunami source information, and the current understanding of tsunami generation and propagation phenomena as expressed in the models. Thus, an attempt has been made to identify a credible upper bound to tsunami hazards at any location along the coastline, it remains possible that the actual tsunami hazard could be greater in a major tsunami event. 
+
+		Quantitative_Attribute_Accuracy_Assessment:
+
+		Attribute_Accuracy_Explanation: 
+
+		Logical_Consistency_Report: The California Geological Survey, California Governor’s Office of Emergency Services, the University of Southern California, and AECOM Technical Services  make no representation or warranties regarding the accuracy of these data. Neither the State of California, University of Southern California, nor AECOM Technical Services shall not be liable under any circumstances for any direct, indirect, special, incidental or consequential damages with respect to any claim by any user or any third party on account of or arising from the use of this map or these data.
+	Completeness_Report: The dataset contains tsunami hazard areas as shown on the 2021 official map of the Tsunami Hazard Area. The base map, which is included on the published map, is not included.
+	Positional_Accuracy:
+		Horizontal_Positional_Accuracy:
+			Horizontal_Positional_Accuracy_Report: The accuracy of the Tsunami Hazard Area shown on these maps and in these data is subject to limitations in the accuracy and completeness of the mapping conducted by the California Geological Survey. Thus, while an attempt has been made to define a maximum tsunami hazard extent at any location along the coastline, it remains possible that the actual Tsunami Hazard Area may be greater as required by the local agencies, organizations, or individuals. 
+	Lineage:
+		Process_Step:
+			Process_Description: Tsunami hazard mapping methods 
+
+			Tsunami modeling is performed by AECOM Technical Services and the University of Southern California funded through the California Governor’s Office of Emergency Services by the National Tsunami Hazard Mitigation Program and through FEMA. Recent tsunami modeling uses probabilistic tsunami hazard analysis to compute tsunami waves from sources from around the Pacific Ocean and results in inundation models that are associated with different probabilities of exceedance over time. The tsunami modeling process allows for wave evolution over a variable bathymetry and topography used for inundation mapping. The California Geological Survey, Seismic Hazards Program, Tsunami Unit selected the 975-year average return period tsunami model, with a 5% probability of exceedance in 50 years, as abasis for the minimum hazard level; this minimum hazard level, along with a suite of maximum credible events, helped define the extent for inundation mapping.
+
+			For the probabilistic modeling the bathymetric/topographic data that are used in the tsunami models consist of a series of nested elevation grids. Deep ocean modeling is prepared using SRTM30+ bathymetric data (30 arc-second resolution). National Centers for Environmental Information coastal digital elevation models with a 1/3 arc-second (~10-meters) resolution and a “Mean High Water” vertical datum is used as the near-shore grids since these data represent a more conservative sea level for the intended use of the tsunami modeling and mapping. 
+
+			In order to enhance the 10-meter resolution inundation data, we use higher-resolution digital topographic data (e.g., 1-meter resolution LiDAR digital elevation models) to refine the location of the maximum inundation area. The location of the inundation area is refined by using digital imagery (e.g. recent National Agriculture Imagery Program imagery) and digital terrain data on a GIS platform with consideration given to historic inundation information. This information is verified, where possible, with workshops and fieldwork coordinated with local county personnel.
+
+			Data from the California Geological Survey (CGS) Tsunami Inundation Maps for Emergency Planning {2009} and the enhanced high resolution mapping of the 975 year return period probabilistic tsunami inundation model results are initially used as a minimum spatial constraint for the placement of the Tsunami Hazard Area. Guidance from local stakeholders, including emergency managers, first responders, and subject matter experts is used to help advise CGS on the placement of the final hazard area in places that would help the public and government safely evacuate during a tsunami event. 	
+
+			The accuracy of the hazard area shown on these maps and in these data is/are subject to limitations in the accuracy and completeness of the mapping conducted by the California Geological Survey. While an attempt has been made to define a maximum tsunami hazard extent at any location along the coastline, it remains possible that the actual Tsunami Hazard Area may be greater as required by the local agencies. 
+
+
+SPATIAL DATA ORGANIZATION INFORMATION
+	Direct_Spatial_Reference_Method: Vector
+
+SPATIAL REFERENCE INFORMATION
+	Horizontal_Coordinate_System_Definition:
+		Grid_Coordinate_System:
+		North American Datum 1983
+		California Albers (meters)
+		Standard_Parallel 1: 34.0
+		Standard_Parallel 2: 40.5
+		Longitude_of_Central_Meridian: -120.0
+		Latitude_of_Projection_Origin: 0.0
+		False_Easting: 0.0
+		False_Northing: -4000000.0
+	Planar_Coordinate_Information:
+		Linear_Distance_Units: meter
+		Geodetic_Model Horizontal_Datum_Name: North American Datum of 1983
+		Ellipsoid_Name: GRS 80
+	Reference_System_Identifier:
+		EPSG 3310
+
+ENTITY AND ATTRIBUTE INFORMATION
+	Overview_Description:
+		Entity_and_Attribute_Overview: Digital GIS files are provided as ESRI shapefiles. These GIS data are current as of 2021. Please check the CGS Tsunami Website at https://www.tsunami.ca.gov/ for current information on new and revised tsunami maps and data.
+
+
+
+DISTRIBUTION INFORMATION
+	Distributor
+		Contact_Information:
+		Contact_Organization: California Geological Survey, Seismic Hazards Program, Tsunami Unit
+		Contact_Organization_Primary:
+		Contact_Person_Primary:
+		Contact_Person: Senior Engineering Geologist, Seismic Hazards Program, Tsunami Unit
+		Contact_Position: Project Manager 
+	Contact_Address:
+		Address_Type: mailing and physical address
+		Address: 801 K Street, MS 12-31
+		City: Sacramento
+		State: CA
+		Postal_Code: 95814-3532
+		Contact_Voice_Telephone: (916) 322-1019
+		Contact_Facsimile_Telephone: (916) 445-3334
+		Contact_Electronic_Mail_Address: SHMP@conservation.ca.gov
+		Hours_of_Service: Monday-Friday, 08:00-17:00, Pacific Time
+
+		Online_Source: https://www.tsunami.ca.gov/ 
+
+		Resource_Description: Official Web Service of the Tsunami Hazard Area
+
+			Distribution_Liability: These data are provided "as is" by the California Geological Survey. Any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the California Department of Conservation, California Geological Survey, or its associated contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) that arise in any way out of the use of these data and software, even if advised of the possibility of such damage.
+
+The California Geological Survey, makes no warranty, express or implied, regarding the data or their use. It is recommended that careful attention be paid to the contents of any metadata associated with a specific file, and that the originator of the data be contacted with any questions regarding appropriate use. The California Geological Survey, shall not be held liable for improper or incorrect use of the data described and/or contained herein.
+
+The California Geological Survey, California Governor’s Office of Emergency Services, the University of Southern California, and AECOM Technical Services make no representation or warranties regarding the accuracy of this hazard area map nor the data from which the map is derived. The State of California shall not be liable under any circumstances for any direct, indirect, special, incidental or consequential damages with respect to any claim by any user or any third party on account of or arising from the use of this map.
+
+		Standard_Order_Process:
+			Digital_Form:
+				Digital_Transfer_Information:
+					Format_Name: ESRI Shapefile
+				Digital_Transfer_Option:
+					Offline_Option:
+						Offline_Media:
+
+Available_Time_Period:
+	Time_Period_Information:
+		Single_Date/Time:
+			Calendar_Date:
+
+
+
+METADATA REFERENCE INFORMATION
+	Metadata_Date: 2021
+	Metadata_Review_Date: 2021
+	Metadata_Contact:
+		Contact_Information
+			Contact_Organization: California Geological Survey, Seismic Hazards Program, Tsunami Unit
+			Contact_Person_Primary:
+				Contact_Person: Senior Engineering Geologist, Tsunami Unit				Contact_Position: Project Manager 
+		Contact_Address:
+			Address_Type: mailing and physical address
+			Address: 801 K Street, MS 12-31
+			City: Sacramento
+			State: CA
+			Postal_Code: 95814-3532
+			Country: USA
+		Contact_Voice_Telephone: (916) 322-1019
+		Contact_Facsimile_Telephone: (916) 445-3334
+		Contact_Electronic_Mail_Address: SHMP@conservation.ca.gov
+Hours_of_Service: 08:00-17:00, Monday-Friday
+Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
